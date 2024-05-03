@@ -1,3 +1,8 @@
+## 下載伺服器世界檔案
+直接從下載整個 Git repository。
+幫大家編輯好的檔案都在 B0CE1BC1BFAC4A49EBBEED2D0B1A66EF 資料夾下，找自己的檔案，例如我的是 DE3B29E6-kj。
+然後按照以下步驟進行。
+
 ## 創造新世界
 ![01](tutorial/01-create_world.jpg "01 創造新世界")
 
